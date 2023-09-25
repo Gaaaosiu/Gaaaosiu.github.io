@@ -1,0 +1,36 @@
+.footer {
+    padding: 2.6vw 15.6%;
+    background: #96b5ca;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-left {
+    font-size: 30px;
+    color: rgb(40, 91, 173);
+}
+
+.footer-left span {
+    color: #fff;
+}
+
+.footer-right {
+    display: flex;
+    align-items: center;
+}
+
+.footer-right a {
+    color: #fff;
+    font-size: 16px;
+    padding: 0 12px;
+    font-weight: 700;
+}
+
+.footer-right a:hover {
+    color: rgb(16 66 145);
+}
+
+.footer-right .active {
+    color: rgb(16 66 145);
+}
